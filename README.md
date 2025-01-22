@@ -1,0 +1,1 @@
+This is a Tkinter gui that connects to a postgres local database. It starts by having you login and choose your host, then it allows you to select from 3 users, usera, userb, userc, each with specific rights to tables in the postges database.
