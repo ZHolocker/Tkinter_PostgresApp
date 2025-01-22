@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: IN450M6
+Version: 1.0
+Summary: Postgresql database GUI for IN450M6 final project
+Author-email: mrholocker@gmail.com
+License: GNU Free Documentation License
+License-File: LICENSE.txt
+Requires-Dist: psycopg2

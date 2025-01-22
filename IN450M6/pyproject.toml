@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
+
+
+#This is to show that the project requires the setuptools and wheelpackages.
+#This also shows that I'm using setuptools.build_meta to build the project.

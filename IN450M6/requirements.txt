@@ -1,0 +1,16 @@
+#requirements
+--index-url https://pypi.python.org/simple/ 
+
+# Runtime:
+
+from tkinter import messagebox
+import tkinter as tk
+import psycopg2 as pg
+from psycopg2 import sql
+from getpass import getpass
+from werkzeug.security import generate_password_hash
+import json
+
+
+#going to need an external postgresql database to connect this application to
+

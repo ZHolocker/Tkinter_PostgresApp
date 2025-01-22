@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+pyproject.toml
+requirements.txt
+setup.py
+IN450M6.egg-info/PKG-INFO
+IN450M6.egg-info/SOURCES.txt
+IN450M6.egg-info/dependency_links.txt
+IN450M6.egg-info/entry_points.txt
+IN450M6.egg-info/requires.txt
+IN450M6.egg-info/top_level.txt
